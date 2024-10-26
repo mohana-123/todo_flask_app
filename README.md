@@ -1,9 +1,5 @@
 # ToDo List Using Flask With SlideBar
 
->[![Linkedin](https://img.shields.io/badge/-DhanashriMachhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanashrimachhi/)](https://www.linkedin.com/in/dhanashrimachhi)
-[![Behance Badge](https://img.shields.io/badge/-DhanashriMachhi-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/dhanashrimac/)](https://www.behance.net/dhanashrimac)
-[![portfolio Badge](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dhanashrimachhi.github.io/) 
-
 
 #### Login Page
 <img src="Webpage Image/Login.png" width="900">
@@ -42,12 +38,11 @@ $ python app.py
 ---
 
 ## Features 📋
-⚡️ Login and Register Option.\
-⚡️ Profile Edit.\
-⚡️ Dashboard, ToDo Task.\
-⚡️ View ToDo.\
-⚡️ ToDo History.\
-⚡️ Logout.
-
+🔥 Login and Register Option.\
+🔥 Profile Edit.\
+🔥 Dashboard, ToDo Task.\
+🔥 View ToDo.\
+🔥 ToDo History.\
+🔥 Logout.
 
 
